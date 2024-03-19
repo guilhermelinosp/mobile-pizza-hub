@@ -9,7 +9,7 @@
 	},
 	"dependencies": {
 		"@babel/core": "^7.23.7",
-		"@commitlint/cli": "^18.4.4",
+		"@commitlint/cli": "^19.2.1",
 		"@commitlint/config-conventional": "^18.4.4",
 		"@react-native-async-storage/async-storage": "^1.21.0",
 		"@react-navigation/native": "^6.1.9",
